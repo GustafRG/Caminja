@@ -15,7 +15,8 @@ Garmin NMEA2000 network backbone (standard Micro-C)\
 Raymarine Axiom 9 Plotter MFD\
 <img src="./Documentation/Images/axiom-9-plotter.png" width="150" alt="Raymarine Axiom 9">\
 ROCK 4SE SBC with PICAN-M NMEA2000 NMEA0183 and i2c Hat with SMPS
-https://www.skpang.co.uk/products/pican-m-with-can-bus-micro-c-and-rs422-connector-3a-smps\
+https://www.skpang.co.uk/products/pican-m-with-can-bus-micro-c-and-rs422-connector-3a-smps
+
 <img src="./Documentation/Images/pican-m-rock-pi-4se-transp.png" width="150" alt="Raymarine Axiom 9">
 
 ## Software
