@@ -117,7 +117,6 @@ Following the guide on SeaBits[^1]
 ```
 sudo apt-get install can-utils -y
 ```
-```
 Then we need to bring up the CAN-bus/NMEA 2000 interface
 ```
 sudo /sbin/ip link set can0 up type can bitrate 250000
