@@ -1,0 +1,15 @@
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\bin\Debug\net6.0\modbus-parser.exe
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\bin\Debug\net6.0\modbus-parser.deps.json
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\bin\Debug\net6.0\modbus-parser.runtimeconfig.json
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\bin\Debug\net6.0\modbus-parser.dll
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\bin\Debug\net6.0\modbus-parser.pdb
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.csproj.AssemblyReference.cache
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.AssemblyInfoInputs.cache
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.AssemblyInfo.cs
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.csproj.CoreCompileInputs.cache
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.dll
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\refint\modbus-parser.dll
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.pdb
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\modbus-parser.genruntimeconfig.cache
+C:\Users\Gustaf\Documents\GitHub\Caminja\Source\modbus-parser\obj\Debug\net6.0\ref\modbus-parser.dll

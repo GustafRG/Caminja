@@ -1,0 +1,177 @@
+[
+    {
+        "Name": "array rated voltage",
+        "Address": "3000",
+        "Description": "PV array rated voltage",
+        "Unit": "V",
+        "Multiplier": 100
+    },
+    {
+        "Name": "array rated current",
+        "Address": "3001",
+        "Description": "PV array rated current",
+        "Unit": "A",
+        "Multiplier": 100
+    },
+    {
+        "Name": "array rated power L",
+        "Address": "3002",
+        "Description": "PV array rated power (low 16 bits)",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "array rated power H",
+        "Address": "3003",
+        "Description": "PV array rated power (high 16 bits)",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery rated voltage",
+        "Address": "3004",
+        "Description": "Rated voltage to battery",
+        "Unit": "V",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery rated current",
+        "Address": "3005",
+        "Description": "Rated current to battery",
+        "Unit": "A",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery rated power L",
+        "Address": "3006",
+        "Description": "Rated power to battery",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery rated power H",
+        "Address": "3007",
+        "Description": "Rated power to battery",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Charging mode",
+        "Address": "3008",
+        "Description": "0000H Connect/disconnect, 0001H PWM,0002H MPPT",
+        "Unit": "",
+        "Multiplier": null
+    },
+    {
+        "Name": "Rated current of load",
+        "Address": "300E",
+        "Description": "Rated current of load",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "PV array input voltage",
+        "Address": "3100",
+        "Description": "Solar charge controller--PV array voltage",
+        "Unit": "V",
+        "Multiplier": 100
+    },
+    {
+        "Name": "PV array input current",
+        "Address": "3101",
+        "Description": "Solar charge controller--PV array current",
+        "Unit": "A",
+        "Multiplier": 100
+    },
+    {
+        "Name": "PV array input power L",
+        "Address": "3102",
+        "Description": "Solar charge controller--PV array power",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "PV array input power H",
+        "Address": "3103",
+        "Description": "Solar charge controller--PV array power",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery power L",
+        "Address": "3106",
+        "Description": "Battery charging power",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery power H",
+        "Address": "3107",
+        "Description": "Battery charging power",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Load voltage",
+        "Address": "310C",
+        "Description": "Load voltage",
+        "Unit": "V",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Load current",
+        "Address": "310D",
+        "Description": "Load current",
+        "Unit": "A",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Load power L",
+        "Address": "310E",
+        "Description": "Load power",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Load power H",
+        "Address": "310F",
+        "Description": "Load power",
+        "Unit": "W",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery Temperature",
+        "Address": "3110",
+        "Description": "Battery Temperature",
+        "Unit": "℃",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Temperature inside equipment",
+        "Address": "3111",
+        "Description": "Temperature inside case",
+        "Unit": "℃",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery SOC",
+        "Address": "311A",
+        "Description": "The percentage of battery's remaining capacity",
+        "Unit": "%",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Remote battery temperature",
+        "Address": "311B",
+        "Description": "The battery temperature measured by remote temperature sensor",
+        "Unit": "℃",
+        "Multiplier": 100
+    },
+    {
+        "Name": "Battery's real rated power",
+        "Address": "311D",
+        "Description": "Current system rated voltage. 1200, 2400, 3600, 4800 represent 12V，24V，36V，48V",
+        "Unit": "℃",
+        "Multiplier": 100
+    }
+]
